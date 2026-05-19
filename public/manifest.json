@@ -1,0 +1,16 @@
+{
+  "name": "Gestão Cia da Beleza",
+  "short_name": "Cia da Beleza",
+  "description": "Painel de agendamentos do salão Cia da Beleza.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "192x192 512x512",
+      "type": "image/png"
+    }
+  ]
+}
